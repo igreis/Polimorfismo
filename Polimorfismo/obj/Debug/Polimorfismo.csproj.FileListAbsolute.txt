@@ -1,0 +1,7 @@
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb

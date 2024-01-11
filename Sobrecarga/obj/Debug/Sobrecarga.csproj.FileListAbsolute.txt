@@ -1,0 +1,7 @@
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Sobrecarga\bin\Debug\Sobrecarga.exe.config
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Sobrecarga\bin\Debug\Sobrecarga.exe
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Sobrecarga\bin\Debug\Sobrecarga.pdb
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Sobrecarga\obj\Debug\Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Sobrecarga\obj\Debug\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Sobrecarga\obj\Debug\Sobrecarga.exe
+C:\Users\Gabriel\OneDrive\Arquivos\UNITRI\Disciplinas\2023-2\Lógica de Programação e Algoritmos II\Aula Polimorfismo\Polimorfismo\Sobrecarga\obj\Debug\Sobrecarga.pdb
